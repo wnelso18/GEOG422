@@ -1,11 +1,6 @@
-## Title: README.md
+# GEOG-422
+sample repository for class
 
-I hate fishing! :0
+## This is a secondary heading
 
-## Example
-
-HAHAHA 
-
-Why do you hate fishing?
-
-it's boring
+I probably should have used a different heading, but I'm just trying to show you how to use Markdown.
