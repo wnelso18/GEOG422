@@ -7,3 +7,5 @@ I hate fishing! :0
 HAHAHA 
 
 Why do you hate fishing?
+
+it's boring
